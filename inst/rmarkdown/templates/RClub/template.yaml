@@ -1,0 +1,4 @@
+name: R Club template
+description: >
+   A template that will knit to a markdown file that properly displays LaTex equations on Github
+create_dir: FALSE

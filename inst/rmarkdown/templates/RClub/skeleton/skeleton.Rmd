@@ -1,0 +1,17 @@
+---
+title: "Untitled"
+author: "Your Name"
+date: "The Date"
+output:
+  github_document:
+    pandoc_args: --webtex
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(rethinking)
+library(tidyverse)
+```
